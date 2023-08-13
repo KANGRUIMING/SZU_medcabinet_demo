@@ -1,0 +1,5 @@
+.env
+_pycache_
+.chroma
+flagged
+constants.py
